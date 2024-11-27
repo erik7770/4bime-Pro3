@@ -12,7 +12,7 @@ criaCartao(
 
 criaCartao(
     'Programação',
-    'O que é uma JavaScripto',
+    'O que é uma JavaScript',
     'JavaScript é uma poderosa linguagem de programação que pode adicionar interatividade a um site'
 )
 
