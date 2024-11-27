@@ -12,12 +12,12 @@ criaCartao(
 
 criaCartao(
     'Programação',
-    'O que é uma JavaScript',
+    'O que é uma JavaScript?',
     'JavaScript é uma poderosa linguagem de programação que pode adicionar interatividade a um site'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz maça em Inglês?',
+    'Como se diz maçã em Inglês?',
     'Maçã em ingles é Apple (ÉPOU)'
 )
